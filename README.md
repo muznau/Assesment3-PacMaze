@@ -1,2 +1,2 @@
-# Assesment3-PacMaze
+# PacMaze
 Pac Man but different
