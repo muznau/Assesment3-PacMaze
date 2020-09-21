@@ -740,7 +740,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: 0.080589294
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
@@ -843,7 +843,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 14.221222
+  orthographic size: 22.923199
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -867,7 +867,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.87, y: 0, z: -10}
+  m_LocalPosition: {x: 6.1, y: 4.8, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -893,7 +893,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: 2.210391
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
